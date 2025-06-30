@@ -5,9 +5,9 @@
 -**MySQL** - SQL queries to extract business insights
 -**Power BI** - Interctive Dashboard
 ## 📂 Project Structure:
--data/ - Cleaned dataset files(.csv format)
--sql/ - SQL queries for customer behaviour,revenue and sales trends (.sql)
--dashboard/ - Power BI dashboard file (.pbix)
+- data/ - Cleaned dataset files(.csv format)
+- sql/ - SQL queries for customer behaviour,revenue and sales trends (.sql)
+- dashboard/ - Power BI dashboard file (.pbix)
 ## 📊 Insights Uncovered:
 - Top 5 Customer by SalePrice
 - Max Discount Given for Books
