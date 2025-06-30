@@ -1,0 +1,21 @@
+BookID,Title,Author,Genre,Publisher,PublicationYear,Price,Format,StockQty
+1,To Kill a Mockingbird,Harper Lee,Fiction,HarperCollins,1960,11.70,Ebook,90
+2,1984,George Orwell,Dystopian,Penguin,1949,33.34,Hardcover,41
+3,The Great Gatsby,F. Scott Fitzgerald,Classic,Macmillan,1925,31.49,Paperback,91
+4,Pride and Prejudice,Jane Austen,Romance,Random House,1813,19.74,Paperback,61
+5,The Hobbit,J.R.R. Tolkien,Fantasy,HarperCollins,1937,21.86,Paperback,27
+6,The Catcher in the Rye,J.D. Salinger,Fiction,"Little, Brown",1951,13.60,Ebook,35
+7,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Allen & Unwin,1954,31.95,Paperback,86
+8,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Bloomsbury,1997,19.49,Ebook,68
+9,The Da Vinci Code,Dan Brown,Mystery,Doubleday,2003,10.10,Ebook,37
+10,The Alchemist,Paulo Coelho,Fiction,HarperOne,1988,24.77,Paperback,82
+11,The Book Thief,Markus Zusak,Historical Fiction,Knopf,2005,21.53,Hardcover,100
+12,The Chronicles of Narnia,C.S. Lewis,Fantasy,Geoffrey Bles,1950,19.43,Paperback,52
+13,Animal Farm,George Orwell,Satire,Secker & Warburg,1945,11.47,Hardcover,89
+14,Gone Girl,Gillian Flynn,Thriller,Crown Publishing,2012,17.73,Ebook,46
+15,Twilight,Stephenie Meyer,Romance,"Little, Brown",2005,29.72,Paperback,73
+16,The Fault in Our Stars,John Green,Young Adult,Dutton Books,2012,12.94,Ebook,23
+17,The Girl on the Train,Paula Hawkins,Mystery,Riverhead Books,2015,11.90,Paperback,71
+18,The Kite Runner,Khaled Hosseini,Drama,Riverhead Books,2003,25.68,Paperback,37
+19,Life of Pi,Yann Martel,Adventure,Knopf Canada,2001,14.05,Ebook,57
+20,A Game of Thrones,George R.R. Martin,Fantasy,Bantam Books,1996,28.64,Ebook,75

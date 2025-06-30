@@ -1,0 +1,301 @@
+OrderID,CustomerID,OrderDate,Month,PaymentMode
+1,69,10/2/2024,Oct,Cash
+2,18,2/15/2025,Feb,Cash
+3,24,10/30/2024,Oct,PayPal
+4,60,8/13/2024,Aug,Debit Card
+5,10,8/30/2024,Aug,Cash
+6,71,5/4/2025,May,Credit Card
+7,7,3/2/2025,Mar,Credit Card
+8,12,2/24/2025,Feb,Debit Card
+9,22,9/11/2024,Sep,Cash
+10,63,10/29/2024,Oct,Cash
+11,28,7/16/2024,Jul,Cash
+12,8,8/6/2024,Aug,Debit Card
+13,49,6/17/2025,Jun,Credit Card
+14,50,6/28/2024,Jun,PayPal
+15,59,3/28/2025,Mar,PayPal
+16,55,8/17/2024,Aug,Cash
+17,20,2/15/2025,Feb,Debit Card
+18,38,6/17/2025,Jun,Debit Card
+19,8,10/25/2024,Oct,Credit Card
+20,96,10/20/2024,Oct,PayPal
+21,8,3/7/2025,Mar,Credit Card
+22,75,3/26/2025,Mar,Cash
+23,65,10/16/2024,Oct,Debit Card
+24,8,9/21/2024,Sep,Credit Card
+25,24,6/16/2025,Jun,Credit Card
+26,77,4/15/2025,Apr,Credit Card
+27,87,7/3/2024,Jul,Debit Card
+28,52,5/7/2025,May,Credit Card
+29,73,6/3/2025,Jun,Debit Card
+30,75,4/12/2025,Apr,Credit Card
+31,80,4/27/2025,Apr,Credit Card
+32,54,9/22/2024,Sep,PayPal
+33,34,4/29/2025,Apr,Debit Card
+34,86,6/14/2025,Jun,PayPal
+35,31,6/9/2025,Jun,PayPal
+36,51,7/1/2024,Jul,Debit Card
+37,86,7/23/2024,Jul,PayPal
+38,59,3/15/2025,Mar,PayPal
+39,97,11/16/2024,Nov,Credit Card
+40,2,4/22/2025,Apr,Cash
+41,80,1/18/2025,Jan,Credit Card
+42,10,1/26/2025,Jan,Debit Card
+43,65,4/26/2025,Apr,PayPal
+44,17,11/19/2024,Nov,PayPal
+45,9,4/13/2025,Apr,Debit Card
+46,48,11/28/2024,Nov,PayPal
+47,21,6/23/2025,Jun,Cash
+48,70,1/29/2025,Jan,PayPal
+49,79,2/6/2025,Feb,Credit Card
+50,86,7/14/2024,Jul,PayPal
+51,85,6/3/2025,Jun,Credit Card
+52,18,8/11/2024,Aug,PayPal
+53,15,6/30/2024,Jun,Credit Card
+54,96,5/11/2025,May,Debit Card
+55,35,12/31/2024,Dec,PayPal
+56,78,2/11/2025,Feb,Debit Card
+57,92,8/18/2024,Aug,PayPal
+58,27,11/12/2024,Nov,PayPal
+59,65,12/23/2024,Dec,Cash
+60,33,12/29/2024,Dec,Credit Card
+61,12,6/19/2025,Jun,Cash
+62,36,2/13/2025,Feb,Credit Card
+63,1,3/26/2025,Mar,PayPal
+64,99,11/25/2024,Nov,Debit Card
+65,82,4/13/2025,Apr,PayPal
+66,21,6/6/2025,Jun,Cash
+67,71,3/30/2025,Mar,Cash
+68,72,11/28/2024,Nov,Credit Card
+69,15,6/20/2025,Jun,Credit Card
+70,89,10/30/2024,Oct,Debit Card
+71,70,3/14/2025,Mar,Credit Card
+72,48,2/7/2025,Feb,Debit Card
+73,56,6/18/2025,Jun,Debit Card
+74,6,9/1/2024,Sep,PayPal
+75,47,2/15/2025,Feb,Credit Card
+76,46,12/20/2024,Dec,Debit Card
+77,88,8/26/2024,Aug,Debit Card
+78,86,10/16/2024,Oct,Credit Card
+79,46,4/24/2025,Apr,Cash
+80,80,1/1/2025,Jan,Debit Card
+81,31,11/26/2024,Nov,Debit Card
+82,23,6/27/2025,Jun,Cash
+83,4,7/26/2024,Jul,Debit Card
+84,95,12/27/2024,Dec,PayPal
+85,53,4/6/2025,Apr,Debit Card
+86,35,1/31/2025,Jan,Debit Card
+87,90,7/1/2024,Jul,Credit Card
+88,49,8/14/2024,Aug,Credit Card
+89,61,12/20/2024,Dec,Debit Card
+90,26,10/15/2024,Oct,Cash
+91,45,5/11/2025,May,PayPal
+92,30,1/18/2025,Jan,Debit Card
+93,4,9/8/2024,Sep,Debit Card
+94,52,12/19/2024,Dec,PayPal
+95,36,4/17/2025,Apr,Credit Card
+96,99,1/22/2025,Jan,PayPal
+97,45,3/5/2025,Mar,Cash
+98,87,10/22/2024,Oct,PayPal
+99,4,7/25/2024,Jul,Credit Card
+100,34,2/9/2025,Feb,Debit Card
+101,75,1/20/2025,Jan,PayPal
+102,5,7/20/2024,Jul,Credit Card
+103,77,6/8/2025,Jun,Cash
+104,45,8/9/2024,Aug,PayPal
+105,56,9/17/2024,Sep,Credit Card
+106,50,12/3/2024,Dec,Debit Card
+107,33,9/29/2024,Sep,Credit Card
+108,91,3/19/2025,Mar,Cash
+109,1,4/27/2025,Apr,Debit Card
+110,47,5/6/2025,May,Cash
+111,9,1/22/2025,Jan,PayPal
+112,80,5/24/2025,May,PayPal
+113,85,3/1/2025,Mar,Credit Card
+114,93,3/3/2025,Mar,PayPal
+115,65,8/26/2024,Aug,PayPal
+116,86,10/31/2024,Oct,Cash
+117,42,2/17/2025,Feb,Cash
+118,90,10/31/2024,Oct,PayPal
+119,71,2/27/2025,Feb,Debit Card
+120,25,2/12/2025,Feb,Cash
+121,86,1/26/2025,Jan,Cash
+122,87,3/29/2025,Mar,Debit Card
+123,79,11/20/2024,Nov,PayPal
+124,52,5/6/2025,May,Credit Card
+125,39,9/1/2024,Sep,PayPal
+126,27,4/26/2025,Apr,Cash
+127,75,9/6/2024,Sep,PayPal
+128,60,1/4/2025,Jan,Cash
+129,57,5/12/2025,May,Debit Card
+130,66,7/28/2024,Jul,Cash
+131,95,4/24/2025,Apr,Debit Card
+132,85,1/20/2025,Jan,Credit Card
+133,37,5/3/2025,May,PayPal
+134,12,7/17/2024,Jul,Debit Card
+135,87,8/22/2024,Aug,PayPal
+136,29,8/27/2024,Aug,Debit Card
+137,19,9/25/2024,Sep,Credit Card
+138,6,4/20/2025,Apr,Debit Card
+139,61,2/11/2025,Feb,Credit Card
+140,59,9/25/2024,Sep,Cash
+141,81,9/23/2024,Sep,Debit Card
+142,92,4/20/2025,Apr,Cash
+143,64,2/18/2025,Feb,Cash
+144,32,2/1/2025,Feb,Debit Card
+145,84,12/2/2024,Dec,Credit Card
+146,97,6/16/2025,Jun,Credit Card
+147,100,9/19/2024,Sep,Cash
+148,29,3/25/2025,Mar,Debit Card
+149,90,7/15/2024,Jul,Cash
+150,7,2/4/2025,Feb,Debit Card
+151,16,1/11/2025,Jan,Cash
+152,18,9/10/2024,Sep,Cash
+153,86,12/25/2024,Dec,PayPal
+154,97,7/6/2024,Jul,Cash
+155,79,10/11/2024,Oct,Cash
+156,71,5/27/2025,May,Cash
+157,21,3/26/2025,Mar,Cash
+158,58,12/8/2024,Dec,PayPal
+159,97,3/9/2025,Mar,Debit Card
+160,82,11/28/2024,Nov,PayPal
+161,99,6/9/2025,Jun,Cash
+162,81,10/10/2024,Oct,Debit Card
+163,36,9/1/2024,Sep,Cash
+164,10,8/26/2024,Aug,PayPal
+165,31,2/9/2025,Feb,PayPal
+166,43,10/1/2024,Oct,PayPal
+167,70,5/23/2025,May,Credit Card
+168,18,12/16/2024,Dec,Debit Card
+169,30,4/27/2025,Apr,Cash
+170,89,1/14/2025,Jan,Debit Card
+171,91,11/21/2024,Nov,Debit Card
+172,9,2/16/2025,Feb,Cash
+173,53,9/7/2024,Sep,PayPal
+174,70,11/4/2024,Nov,Cash
+175,54,5/26/2025,May,Credit Card
+176,27,12/13/2024,Dec,Cash
+177,50,6/22/2025,Jun,Credit Card
+178,98,1/27/2025,Jan,Cash
+179,62,10/11/2024,Oct,Credit Card
+180,46,6/16/2025,Jun,PayPal
+181,97,6/3/2025,Jun,Cash
+182,54,9/6/2024,Sep,Debit Card
+183,63,9/19/2024,Sep,Debit Card
+184,35,1/9/2025,Jan,Cash
+185,63,7/23/2024,Jul,Credit Card
+186,50,12/28/2024,Dec,PayPal
+187,86,1/29/2025,Jan,Cash
+188,93,12/16/2024,Dec,Debit Card
+189,60,4/27/2025,Apr,Debit Card
+190,80,10/24/2024,Oct,Credit Card
+191,51,4/23/2025,Apr,Credit Card
+192,11,8/17/2024,Aug,Cash
+193,18,11/25/2024,Nov,Cash
+194,24,7/17/2024,Jul,Credit Card
+195,34,3/3/2025,Mar,Cash
+196,42,7/18/2024,Jul,Debit Card
+197,59,5/31/2025,May,PayPal
+198,44,5/1/2025,May,Cash
+199,36,8/21/2024,Aug,Cash
+200,33,5/22/2025,May,Credit Card
+201,61,11/8/2024,Nov,Credit Card
+202,96,8/23/2024,Aug,Credit Card
+203,45,3/4/2025,Mar,Debit Card
+204,84,5/6/2025,May,Credit Card
+205,100,1/31/2025,Jan,Credit Card
+206,97,5/30/2025,May,Credit Card
+207,32,10/4/2024,Oct,Debit Card
+208,3,3/10/2025,Mar,Debit Card
+209,31,11/8/2024,Nov,Debit Card
+210,61,11/4/2024,Nov,Credit Card
+211,73,12/31/2024,Dec,Debit Card
+212,60,1/11/2025,Jan,PayPal
+213,99,11/23/2024,Nov,PayPal
+214,22,9/1/2024,Sep,Credit Card
+215,100,1/25/2025,Jan,Debit Card
+216,40,10/2/2024,Oct,Credit Card
+217,75,10/25/2024,Oct,Credit Card
+218,40,1/1/2025,Jan,Cash
+219,51,9/3/2024,Sep,Debit Card
+220,10,4/11/2025,Apr,Debit Card
+221,14,5/8/2025,May,PayPal
+222,88,10/2/2024,Oct,Credit Card
+223,73,10/28/2024,Oct,Credit Card
+224,45,3/9/2025,Mar,Cash
+225,85,2/12/2025,Feb,PayPal
+226,9,1/13/2025,Jan,PayPal
+227,2,9/17/2024,Sep,Cash
+228,63,6/9/2025,Jun,Credit Card
+229,56,3/9/2025,Mar,PayPal
+230,82,1/24/2025,Jan,Cash
+231,91,6/18/2025,Jun,Debit Card
+232,56,7/30/2024,Jul,Debit Card
+233,94,9/11/2024,Sep,PayPal
+234,79,4/25/2025,Apr,Cash
+235,60,7/21/2024,Jul,Cash
+236,94,8/4/2024,Aug,PayPal
+237,42,5/13/2025,May,Debit Card
+238,12,2/3/2025,Feb,PayPal
+239,58,4/15/2025,Apr,Debit Card
+240,97,1/20/2025,Jan,Cash
+241,73,11/12/2024,Nov,Cash
+242,44,11/27/2024,Nov,Credit Card
+243,64,10/25/2024,Oct,PayPal
+244,24,3/22/2025,Mar,Cash
+245,28,6/4/2025,Jun,PayPal
+246,34,1/30/2025,Jan,PayPal
+247,36,5/13/2025,May,PayPal
+248,72,4/13/2025,Apr,Credit Card
+249,67,2/25/2025,Feb,Debit Card
+250,11,5/3/2025,May,Debit Card
+251,93,10/30/2024,Oct,Cash
+252,63,8/25/2024,Aug,Debit Card
+253,89,4/11/2025,Apr,Cash
+254,83,8/24/2024,Aug,Cash
+255,58,12/29/2024,Dec,Credit Card
+256,12,3/21/2025,Mar,PayPal
+257,29,11/26/2024,Nov,Cash
+258,89,9/9/2024,Sep,Debit Card
+259,40,8/25/2024,Aug,PayPal
+260,61,11/17/2024,Nov,PayPal
+261,55,12/10/2024,Dec,PayPal
+262,46,9/7/2024,Sep,Cash
+263,35,1/13/2025,Jan,PayPal
+264,33,11/21/2024,Nov,Debit Card
+265,16,10/19/2024,Oct,Debit Card
+266,41,9/1/2024,Sep,Credit Card
+267,96,5/24/2025,May,Debit Card
+268,25,10/21/2024,Oct,Debit Card
+269,95,12/17/2024,Dec,Cash
+270,36,5/12/2025,May,PayPal
+271,13,12/6/2024,Dec,Debit Card
+272,38,4/17/2025,Apr,Debit Card
+273,47,6/28/2024,Jun,Debit Card
+274,39,12/23/2024,Dec,Credit Card
+275,91,1/31/2025,Jan,Debit Card
+276,36,1/14/2025,Jan,Credit Card
+277,7,8/14/2024,Aug,PayPal
+278,90,3/17/2025,Mar,Debit Card
+279,82,5/27/2025,May,Cash
+280,14,2/21/2025,Feb,Credit Card
+281,74,1/19/2025,Jan,PayPal
+282,61,1/10/2025,Jan,Cash
+283,57,7/12/2024,Jul,PayPal
+284,24,4/5/2025,Apr,Credit Card
+285,33,4/24/2025,Apr,Cash
+286,15,3/9/2025,Mar,Credit Card
+287,52,12/30/2024,Dec,Cash
+288,10,3/24/2025,Mar,Credit Card
+289,20,10/5/2024,Oct,Debit Card
+290,73,12/1/2024,Dec,PayPal
+291,11,1/26/2025,Jan,Debit Card
+292,16,10/28/2024,Oct,Cash
+293,78,7/29/2024,Jul,Debit Card
+294,100,5/11/2025,May,Cash
+295,58,8/7/2024,Aug,Cash
+296,39,10/21/2024,Oct,Cash
+297,40,2/25/2025,Feb,Credit Card
+298,79,10/16/2024,Oct,Credit Card
+299,98,8/31/2024,Aug,Debit Card
+300,81,9/12/2024,Sep,Debit Card

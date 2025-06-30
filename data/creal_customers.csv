@@ -1,0 +1,101 @@
+CustomerID,Name,Gender,Age,AgeGroup,Email,City,MembershipType
+1,Adam Pham,Other,25,Adult,cody96@ayers.biz,New Jordan,Standard
+2,Kevin Little,Other,35,Adult,melissa66@cook.net,Chapmanberg,Standard
+3,William Fischer MD,Male,26,Adult,wilsonmartha@hill-pineda.com,East Olivia,Guest
+4,Brenda Clark,Male,61,Senior,jason66@dixon-french.com,South Mia,Guest
+5,Aaron Salazar,Other,23,Adult,aschroeder@bass.biz,New Tracy,Guest
+6,Rebecca Lloyd,Female,20,Adult,callison@hotmail.com,West Matthewton,Standard
+7,Mallory Gomez,Male,31,Adult,bellalyssa@gmail.com,Port Tammyport,Standard
+8,Jamie Gonzalez,Other,56,Adult,kolson@gmail.com,West Geoffrey,Standard
+9,Ryan Holmes,Other,30,Adult,scottchristopher@golden-jennings.com,Jimmychester,Guest
+10,Jenna Smith,Other,62,Senior,valeriegonzalez@yahoo.com,West James,Guest
+11,Dr. Kevin Wagner,Female,32,Adult,wrightdaniel@hotmail.com,Elliottside,Premium
+12,Beth Holland,Other,35,Adult,ogolden@richardson.org,New Troyton,Standard
+13,Sabrina Orozco,Male,62,Senior,fmiller@bates.com,Port Stephaniestad,Premium
+14,Kristin Rubio,Female,35,Adult,lee33@dominguez.com,Port Christina,Standard
+15,Michelle Foster,Male,66,Senior,kristen72@gmail.com,South Brandon,Premium
+16,Rebecca Jones,Male,23,Adult,vincent08@yahoo.com,Jeffreystad,Premium
+17,Desiree Gibson,Male,40,Adult,deborah36@yahoo.com,Suzanneberg,Premium
+18,Allison Andrade,Other,34,Adult,christophereaton@ashley.info,Michaelmouth,Standard
+19,Bryce Hebert,Other,47,Adult,philipmoon@fletcher-hudson.com,South Paulborough,Guest
+20,Ronnie Lamb,Male,42,Adult,xcox@hotmail.com,Williamchester,Standard
+21,Ryan Campbell,Other,36,Adult,gkennedy@myers.com,Port Carolfurt,Guest
+22,Matthew Oliver,Other,41,Adult,brandonbray@gmail.com,South Charles,Guest
+23,Courtney Lopez,Male,63,Senior,jessicawang@hotmail.com,Rosarioville,Standard
+24,Eugene Greene,Male,60,Adult,morancaleb@freeman.info,Ballardstad,Standard
+25,Lonnie Crosby,Female,23,Adult,michellekey@hess.com,Thomasstad,Standard
+26,Jared Ramirez,Male,42,Adult,arthur96@mendoza-foster.com,Hollyborough,Premium
+27,Mary Walker,Female,58,Adult,ggeorge@yahoo.com,Anneland,Premium
+28,Hannah Martinez,Male,41,Adult,qmoore@miller-lawrence.com,East Michaelborough,Premium
+29,Dan Small,Male,60,Adult,alisonwalters@yahoo.com,South Marthaberg,Premium
+30,Kristin Gillespie,Other,61,Senior,jason54@wiggins.com,Port Georgeview,Guest
+31,Jacob Jones,Male,56,Adult,ecalhoun@johnson.net,Stacieborough,Guest
+32,Michael Williams,Male,52,Adult,kennethburton@smith-cooper.com,New Marystad,Guest
+33,Vickie Lester,Male,28,Adult,amberlyons@allen-green.com,North Lynn,Premium
+34,Eric Lewis,Female,35,Adult,johnsongary@mata-rivera.com,Port Aliciaborough,Guest
+35,Katherine Martinez,Other,53,Adult,tpatrick@wolfe-jones.com,Thomashaven,Standard
+36,Cheryl Cook,Other,38,Adult,leetammy@jordan.com,Oscarshire,Standard
+37,Tracy Salinas,Male,70,Senior,qconway@yahoo.com,Walkerborough,Standard
+38,James Howard,Female,43,Adult,teresa90@stout-morton.biz,Cannonmouth,Premium
+39,Ronald Allen,Male,31,Adult,williamdickerson@mitchell-nelson.biz,Anthonyborough,Guest
+40,Kimberly Pearson,Other,38,Adult,daviesmary@yahoo.com,East Rogerhaven,Standard
+41,Corey Miller,Other,49,Adult,michael72@gmail.com,East Antonio,Premium
+42,Ruth Garrett,Other,47,Adult,zknapp@hotmail.com,Campbellport,Standard
+43,Joseph Myers,Female,26,Adult,woodsedward@hamilton.com,Grayfurt,Standard
+44,Steven Chapman,Other,53,Adult,virginia11@gmail.com,Samuelville,Guest
+45,Patrick Turner,Female,65,Senior,mariah04@gmail.com,East Rhonda,Guest
+46,Rachel Moore,Female,55,Adult,robert66@yahoo.com,Erichaven,Premium
+47,Amy Hartman,Female,32,Adult,roydoyle@martinez.biz,Reginafort,Standard
+48,Henry Rodriguez,Other,49,Adult,staffordtracy@wood.org,Mcintoshport,Standard
+49,Aimee Hendricks,Male,25,Adult,jonathanmcdonald@gmail.com,North Joseph,Standard
+50,Elizabeth Farley,Other,28,Adult,herreragerald@smith.com,Maxwellborough,Guest
+51,Zachary Joseph,Female,56,Adult,harmonchristine@key.com,West Ann,Standard
+52,Chad Keller,Female,42,Adult,fsanders@stone.com,Charlesberg,Guest
+53,Cody Perry,Female,51,Adult,murphycrystal@watson-marquez.biz,West Ann,Premium
+54,Thomas Freeman,Other,18,Teen,sandra28@yahoo.com,Burtonside,Guest
+55,Mark Simmons,Other,25,Adult,toddsutton@valdez.com,Roseview,Guest
+56,Christopher Ray,Other,66,Senior,melissa49@yahoo.com,Elizabethberg,Premium
+57,James Anderson DDS,Other,39,Adult,lopezbrittany@yahoo.com,Parkermouth,Standard
+58,Mrs. Betty Price,Female,45,Adult,duncanfrederick@yahoo.com,Davisville,Standard
+59,Ryan Ortiz,Female,18,Teen,jaredstewart@martin.biz,New Ronald,Guest
+60,Charles Ferguson,Other,34,Adult,holdentaylor@yahoo.com,Georgebury,Guest
+61,Dana Spencer,Male,50,Adult,ryanduran@pham.com,East Anne,Standard
+62,Tiffany Mitchell,Other,37,Adult,moorejustin@robles.com,North Mark,Guest
+63,Jody Carr,Other,56,Adult,christopher06@gmail.com,Port Kevin,Standard
+64,Stacy Sutton,Male,41,Adult,stricklandlucas@gmail.com,South Andrew,Standard
+65,Lisa Gibbs,Other,67,Senior,robert53@yahoo.com,Lake Lucas,Guest
+66,Corey Gonzales,Male,56,Adult,seanhamilton@collins.com,North Paul,Premium
+67,Tyler Spears,Female,19,Teen,todd63@maxwell-craig.com,East Cassandra,Standard
+68,Joshua Braun,Female,69,Senior,hannahbanks@solomon.org,North Jenniferville,Premium
+69,Chad Garza,Male,21,Adult,stevenmoore@sweeney-sanchez.com,North Randyland,Standard
+70,Donald Murray,Other,23,Adult,stevenfletcher@luna.org,Port Alexanderberg,Standard
+71,Brian Campbell,Other,49,Adult,nathan76@horn.biz,Hallland,Standard
+72,Justin Holmes,Other,67,Senior,karenmorris@wilson.net,North Melissatown,Standard
+73,Timothy Bass,Male,60,Adult,ericjackson@gmail.com,North Amanda,Premium
+74,Zachary Williams,Other,28,Adult,emilycoleman@gmail.com,North Bruceport,Premium
+75,Julia Berg,Other,56,Adult,leachbrandon@yahoo.com,East Ryanport,Premium
+76,Alexis Davies,Male,52,Adult,jason43@gmail.com,Smithchester,Guest
+77,Jason Walker,Other,30,Adult,charles07@gmail.com,Lake Natalieville,Guest
+78,Adam Turner,Female,43,Adult,kerrihutchinson@green-mccall.com,Cooperstad,Guest
+79,Christine Davis,Other,41,Adult,jacobsdawn@hotmail.com,South David,Premium
+80,William Griffin,Other,46,Adult,lbenitez@ray-scott.net,Charlesfort,Standard
+81,Thomas Brown,Male,32,Adult,jeffrey71@smith-leach.com,Port Brendaton,Standard
+82,Danielle Kaiser,Female,19,Teen,erin27@hall-glover.com,Whitehaven,Guest
+83,Martin Cardenas,Other,32,Adult,kellysergio@hotmail.com,New Michael,Guest
+84,Vanessa Richardson,Male,18,Teen,bryanmiller@andrews.com,Rickyburgh,Standard
+85,Calvin Chavez,Other,58,Adult,joelhowell@hotmail.com,Rossview,Standard
+86,Jennifer Reese,Male,22,Adult,phall@lane-woods.net,Lake Frankland,Standard
+87,Jennifer Griffin,Female,22,Adult,barbarapowell@gmail.com,East Lindsay,Guest
+88,Robert Edwards,Male,35,Adult,burnsbrian@hotmail.com,South Emilyport,Guest
+89,Christopher Wood,Female,31,Adult,ashleybarrett@yahoo.com,West Timothychester,Guest
+90,Mackenzie Rivera,Male,64,Senior,jonathan03@hotmail.com,Nicholeview,Guest
+91,Joshua Solomon,Other,48,Adult,chad75@gmail.com,North Michellemouth,Standard
+92,Benjamin Lang,Female,69,Senior,janderson@blake.com,Andrewshire,Premium
+93,Luke Benjamin,Male,24,Adult,susansanchez@flynn.com,Bassbury,Standard
+94,Patricia Howard,Other,45,Adult,garciabrittany@clark.info,Hopkinsbury,Premium
+95,Angel Brooks,Female,44,Adult,morsejulia@butler-cook.com,Patrickview,Premium
+96,Jordan Tate,Other,21,Adult,hroberts@yahoo.com,Chandlerland,Guest
+97,Andrea Cooper,Other,59,Adult,dperez@smith.biz,Michaelville,Standard
+98,Amanda Hall,Male,43,Adult,rachelhernandez@hotmail.com,Lake George,Guest
+99,Brandon Scott,Female,69,Senior,bradleymelanie@gillespie.biz,Port Robertport,Standard
+100,Ian Cooper,Male,30,Adult,bsantos@gordon-jones.org,Lake Jamesfurt,Standard
